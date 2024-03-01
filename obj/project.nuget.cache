@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "66EuP31JmUrcC41AuurcvfRnuPXyGRM9N5ojkyNfILrSuBJmxdVCAFXurJJvsQgzRTtYhSjXWFkh4XfqdI7dvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KAYE GAT\\Desktop\\PRELIM_E3_Gatmaitan_BSIT32E1\\PRELIM_E3_Gatmaitan_BSIT32E1\\PRELIM_E3_Gatmaitan_BSIT32E1\\PRELIM_E3_Gatmaitan_BSIT32E1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KAYE GAT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

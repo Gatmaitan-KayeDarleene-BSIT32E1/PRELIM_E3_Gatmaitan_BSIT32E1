@@ -1,0 +1,101 @@
+
+body {
+    margin-bottom: 60px;
+    background-color: #FBA1B7;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.ParentContainer {
+    display: flex;
+    flex-direction: row-reverse; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    max-width: 500vh;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 20vh;
+}
+
+.text-content {
+    text-align: left; 
+    padding-left: 15vh;
+}
+
+.image {
+    text-align: right; 
+    padding-left: 15vh;
+}
+
+.heart-image {
+    width: 40vh;
+    height: 40vh;
+    border-radius: 50%;
+}
+
+
+.Greet {
+    color: #FF407D;
+}
+
+.FullName {
+    font-family: Bell MT;
+    font-weight: bold;
+    color: black;
+}
+
+.School {
+    font-family: Bell MT;
+    font-weight: bold;
+    color: black;
+}
+
+.curr {
+    color: #FF407D;
+    font-size: 3vh;
+    font-family: Arial
+}
+
+.Course {
+    font-family: Bell MT;
+    font-weight: bold;
+    color: black;
+}
+
+.taking {
+    color: #FF407D;
+    font-size: 3vh;
+    font-family: Arial
+}
+
+.Sched {
+    color: black;
+}
+
+.Mysched {
+    font-family: Bell MT;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+table {
+    font-family: Bell MT;
+    width: 80vh;
+    border-collapse: collapse;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    font-size: 3vh;
+}
+
+td {
+    border: 1vh solid #FF407D;
+    padding: 4vh;
+    text-align: center;
+}
+
+th {
+    border: 1vh solid #FF407D;
+    padding: 1vh;
+    text-align: center;
+}
